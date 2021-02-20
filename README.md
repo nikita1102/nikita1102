@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning: github
-.
-- 🤔 I’m looking for help with ...
+
+
 
 - 📫 How to reach me: askfornikita@gmail.com
 
